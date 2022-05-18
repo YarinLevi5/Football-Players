@@ -1,0 +1,30 @@
+[
+  {
+    "playerId": "1",
+    "name": "Kobe Bryant",
+    "team": "LAL",
+    "points": "24",
+    "year": "1998"
+  },
+  {
+    "playerId": "2",
+    "name": "Michael Jordan",
+    "team": "JAZ",
+    "points": "11",
+    "year": "2019"
+  },
+  {
+    "playerId": "3",
+    "name": "Lebron James",
+    "team": "LAL",
+    "points": "24",
+    "year": "1781"
+  },
+  {
+    "playerId": "1",
+    "name": "james Harden",
+    "team": "Dallas",
+    "points": "44",
+    "year": "2019"
+  }
+]
